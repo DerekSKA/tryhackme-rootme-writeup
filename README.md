@@ -1,9 +1,9 @@
 # TryHackMe – RootMe
 
-**Asignatura:** Diseño de Arquitecturas de Seguridad TI
-**Profesor:** Diego Miguel Cáceres Solis
-**Alumno:** Kevin Ignacio Apablaza Vergara
-**Fecha de entrega:** 26/10/2026
+- **Asignatura:** Diseño de Arquitecturas de Seguridad TI
+- **Profesor:** Diego Miguel Cáceres Solis
+- **Alumno:** Kevin Ignacio Apablaza Vergara
+- **Fecha de entrega:** 26/10/2026
 
 ## Objetivo y descripción del laboratorio
 
